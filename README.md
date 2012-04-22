@@ -12,4 +12,6 @@ Dictionary
 * edit - úprava
 * field - pole
 * item - položka
+* label - označenie
 * summary - zhrnutie
+* title - názov
