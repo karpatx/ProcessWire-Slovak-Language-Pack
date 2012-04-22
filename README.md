@@ -10,9 +10,14 @@ Below is a list of frequently used phrases to keep the translations consistent.
 Recommended translations
 ------------------------
 
+* built-in - 
 * edit - úprava
 * field - pole
+* fieldset - zoskupenie polí
 * item - položka
 * label - označenie
+* select - vybrať
+* show - zobraziť
 * summary - zhrnutie
+* template - šablóna
 * title - názov
