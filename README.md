@@ -12,6 +12,8 @@ Recommended translations
 
 * allow - povoliť
 * built-in - vstavaný
+* cancel - zrušiť
+* change - zmeniť
 * check (in checkbox context) - zaškrtnúť
 * decompress - rozbaliť
 * dimension - rozmer
@@ -20,16 +22,23 @@ Recommended translations
 * enable - aktivovať
 * field - pole
 * fieldset - zoskupenie polí
+* image - obrázok
 * item - položka
 * label - označenie
+* letter - písmeno
+* link - odkaz
+* number - číslica
 * optional - voliteľný
 * resize - upraviť veľkosť
 * select - vybrať
+* set - nastaviť
 * show - zobraziť
-* specify - určiť
+* specify - určiť, definovať
+* submit - potvrdiť
 * summary - zhrnutie
 * template - šablóna
 * thumbnail - náhľad
 * title - názov
+* unselect - zrušiť výber
 * upload - odovzdať
 * valid - platný
