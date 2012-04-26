@@ -10,14 +10,26 @@ Below is a list of frequently used phrases to keep the translations consistent.
 Recommended translations
 ------------------------
 
-* built-in - 
+* allow - povoliť
+* built-in - vstavaný
+* check (in checkbox context) - zaškrtnúť
+* decompress - rozbaliť
+* dimension - rozmer
 * edit - úprava
+* editor - editor
+* enable - aktivovať
 * field - pole
 * fieldset - zoskupenie polí
 * item - položka
 * label - označenie
+* optional - voliteľný
+* resize - upraviť veľkosť
 * select - vybrať
 * show - zobraziť
+* specify - určiť
 * summary - zhrnutie
 * template - šablóna
+* thumbnail - náhľad
 * title - názov
+* upload - odovzdať
+* valid - platný
