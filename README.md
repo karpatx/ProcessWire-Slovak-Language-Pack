@@ -10,8 +10,10 @@ Below is a list of frequently used phrases to keep the translations consistent.
 Recommended translations
 ------------------------
 
+* add - pridať
 * advanced - pokročilý
 * allow - povoliť
+* browser - prezerač
 * built-in - vstavaný
 * cancel - zrušiť
 * change - zmeniť
@@ -21,10 +23,13 @@ Recommended translations
 * edit - úprava
 * editor - editor
 * enable - aktivovať
+* equal - zhodovať sa
+* expire - ukončiť platnosť
 * field - pole
 * fieldset - zoskupenie polí
 * found - nájdený
 * image - obrázok
+* include
 * item - položka
 * label - označenie
 * letter - písmeno
@@ -33,13 +38,18 @@ Recommended translations
 * number - číslica
 * option - možnosť
 * optional - voliteľný
+* page - stránka
+* query - dotaz
+* reference - referencia
 * remove - odstrániť
+* request - požiadavka
+* require - požadovať
 * resize - upraviť veľkosť
 * select - vybrať
 * set - nastaviť
 * show - zobraziť
 * specify - určiť, definovať
-* submit - potvrdiť
+* submit - potvrdiť, odoslať
 * summary - zhrnutie
 * template - šablóna
 * thumbnail - náhľad
@@ -47,3 +57,4 @@ Recommended translations
 * unselect - zrušiť výber
 * upload - odovzdať
 * valid - platný
+* web browser - webový prezerač
