@@ -10,6 +10,7 @@ Below is a list of frequently used phrases to keep the translations consistent.
 Recommended translations
 ------------------------
 
+* advanced - pokročilý
 * allow - povoliť
 * built-in - vstavaný
 * cancel - zrušiť
@@ -22,13 +23,17 @@ Recommended translations
 * enable - aktivovať
 * field - pole
 * fieldset - zoskupenie polí
+* found - nájdený
 * image - obrázok
 * item - položka
 * label - označenie
 * letter - písmeno
 * link - odkaz
+* note that - upozorňujeme, že
 * number - číslica
+* option - možnosť
 * optional - voliteľný
+* remove - odstrániť
 * resize - upraviť veľkosť
 * select - vybrať
 * set - nastaviť
