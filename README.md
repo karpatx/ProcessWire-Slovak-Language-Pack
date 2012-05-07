@@ -34,6 +34,7 @@ Recommended translations
 * label - označenie
 * letter - písmeno
 * link - odkaz
+* load - načítať
 * note that - upozorňujeme, že
 * number - číslica
 * option - možnosť
