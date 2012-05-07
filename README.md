@@ -22,6 +22,7 @@ Recommended translations
 * change - zmeniť
 * child - podstránka
 * check (in checkbox context) - zaškrtnúť
+* checkbox - zaškrtávacie políčko
 * custom - používateľský
 * decompress - rozbaliť
 * delete - vymazať
@@ -56,6 +57,7 @@ Recommended translations
 * parent - nadradený
 * permanent - trvalý
 * permanently - natrvalo
+* permission - povolenie
 * publish - zverejniť
 * query - dotaz
 * reference - referencia
