@@ -12,6 +12,7 @@ Recommended translations
 
 * access - prístup
 * add - pridať
+* admin - admin
 * advanced - pokročilý
 * allow - povoliť
 * are you sure? - ste si istý?
@@ -23,12 +24,15 @@ Recommended translations
 * child - podstránka
 * check (in checkbox context) - zaškrtnúť
 * checkbox - zaškrtávacie políčko
+* choose - vybrať
 * custom - používateľský
 * decompress - rozbaliť
 * delete - vymazať
 * dimension - rozmer
+* drag - ťahať
 * edit - úprava
 * editor - editor
+* empty - prázdny, vyprázdniť
 * enable - aktivovať
 * equal - zhodovať sa
 * exclude - vynechať
@@ -42,8 +46,10 @@ Recommended translations
 * item - položka
 * keep - ponechať
 * label - označenie
+* launch - spustiť
 * letter - písmeno
-* link - odkaz
+* limit - obmedziť
+* link - odkaz, prelinkovať
 * load - načítať
 * lock - uzamknúť
 * modify - zmeniť
@@ -78,6 +84,7 @@ Recommended translations
 * template - šablóna
 * thumbnail - náhľad
 * title - názov
+* trash - kôš
 * unpublish - nezverejniť, zrušiť zverejnenie
 * unselect - zrušiť výber
 * upload - odovzdať
