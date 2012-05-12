@@ -25,23 +25,27 @@ Recommended translations
 * check (in checkbox context) - zaškrtnúť
 * checkbox - zaškrtávacie políčko
 * choose - vybrať
+* currently - aktuálne
 * custom - používateľský
 * decompress - rozbaliť
+* default - predvolený
 * delete - vymazať
 * dimension - rozmer
 * drag - ťahať
 * edit - úprava
 * editor - editor
 * empty - prázdny, vyprázdniť
-* enable - aktivovať
+* enable - aktivovať, umožniť
 * equal - zhodovať sa
 * exclude - vynechať
 * expire - ukončiť platnosť
 * field - pole
 * fieldset - zoskupenie polí
 * found - nájdený
+* handle - spracovať
 * hidden - skrytý
 * image - obrázok
+* indicate - označovať, indikovať
 * include
 * item - položka
 * keep - ponechať
