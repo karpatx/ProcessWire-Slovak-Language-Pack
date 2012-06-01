@@ -81,7 +81,7 @@ Recommended translations
 * parent - nadradený
 * permanent - trvalý
 * permanently - natrvalo
-* permission - povolenie
+* permission - oprávnenie
 * publish - zverejniť
 * query - dotaz
 * reference - referencia
@@ -104,6 +104,7 @@ Recommended translations
 * thumbnail - náhľad
 * title - názov
 * trash - kôš
+* tree - stromová štruktúra
 * unpublish - nezverejniť, zrušiť zverejnenie
 * unselect - zrušiť výber
 * upload - odovzdať
