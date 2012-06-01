@@ -10,6 +10,7 @@ Below is a list of frequently used phrases to keep the translations consistent.
 Recommended translations
 ------------------------
 
+* above - vyššie, vyššie umiestnený
 * abort - prerušiť
 * access - prístup
 * add - pridať
@@ -19,12 +20,13 @@ Recommended translations
 * allow - povoliť
 * are you sure? - ste si istý?
 * box - políčko
-* below - nižšie zobrazený
+* below - nižšie, nižšie umiestnený
 * browser - prezerač
 * built-in - vstavaný
 * drag-n-drop - metóda drag-n-drop
 * cancel - zrušiť
 * change - zmeniť
+* check - overiť
 * check (in checkbox context) - zaškrtnúť
 * checkbox - zaškrtávacie políčko
 * child - podstránka
@@ -36,8 +38,10 @@ Recommended translations
 * decompress - rozbaliť
 * default - predvolený
 * delete - vymazať
+* description - popis
 * different - odlišný
 * dimension - rozmer
+* disable - vypnúť
 * drag - ťahať
 * duplicate - duplikovať
 * edit - úprava
