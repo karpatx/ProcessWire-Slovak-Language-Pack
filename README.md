@@ -10,28 +10,36 @@ Below is a list of frequently used phrases to keep the translations consistent.
 Recommended translations
 ------------------------
 
+* abort - prerušiť
 * access - prístup
 * add - pridať
+* additional - ďalší, dodatočný
 * admin - admin
 * advanced - pokročilý
 * allow - povoliť
 * are you sure? - ste si istý?
+* box - políčko
+* below - nižšie zobrazený
 * browser - prezerač
 * built-in - vstavaný
 * drag-n-drop - metóda drag-n-drop
 * cancel - zrušiť
 * change - zmeniť
-* child - podstránka
 * check (in checkbox context) - zaškrtnúť
 * checkbox - zaškrtávacie políčko
+* child - podstránka
 * choose - vybrať
+* clone - klonovať
+* confirm - potvrdiť
 * currently - aktuálne
 * custom - používateľský
 * decompress - rozbaliť
 * default - predvolený
 * delete - vymazať
+* different - odlišný
 * dimension - rozmer
 * drag - ťahať
+* duplicate - duplikovať
 * edit - úprava
 * editor - editor
 * empty - prázdny, vyprázdniť
@@ -44,9 +52,11 @@ Recommended translations
 * found - nájdený
 * handle - spracovať
 * hidden - skrytý
+* if you want to - ak si želáte, ak chcete
 * image - obrázok
 * indicate - označovať, indikovať
 * include
+* instruction - pokyn
 * item - položka
 * keep - ponechať
 * label - označenie
@@ -59,7 +69,7 @@ Recommended translations
 * modify - zmeniť
 * move - presunúť
 * native - pôvodný
-* note that - upozorňujeme, že
+* note that - berte na vedomie, že
 * number - číslica
 * option - možnosť
 * optional - voliteľný, prípadný
@@ -79,10 +89,11 @@ Recommended translations
 * role - rola
 * select - vybrať
 * set - nastaviť
+* significant - výrazný
 * show - zobraziť
 * sort - triediť
 * specify - určiť, definovať
-* submit - potvrdiť, odoslať
+* submit - odoslať
 * summary - zhrnutie
 * tab - záložka
 * template - šablóna
