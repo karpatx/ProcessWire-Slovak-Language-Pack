@@ -37,13 +37,15 @@ Recommended translations
 * custom - používateľský
 * decompress - rozbaliť
 * default - predvolený
+* define - definovať
 * delete - vymazať
 * description - popis
 * different - odlišný
 * dimension - rozmer
 * disable - vypnúť
-* drag - ťahať
-* duplicate - duplikovať
+* drag - ťahať, potiahnuť
+* drag and drop - metóda "drag and drop"
+* duplicate - duplikovať, duplikátny
 * edit - úprava
 * editor - editor
 * empty - prázdny, vyprázdniť
@@ -94,6 +96,7 @@ Recommended translations
 * select - vybrať
 * set - nastaviť
 * significant - výrazný
+* site - webové sídlo
 * show - zobraziť
 * sort - triediť
 * specify - určiť, definovať
