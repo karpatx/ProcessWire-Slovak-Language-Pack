@@ -7,6 +7,24 @@ If you would like to participate, don't hesitate to fork this repo.
 
 Below is a list of frequently used phrases to keep the translations consistent.
 
+Installation
+------------
+
+1. Download this language pack on Github
+   (on the Github ProcessWire-Slovak-Language-Pack home page click
+   Downloads > Download as zip)
+2. Make sure that Languages Support module is activated
+   (go to Modules > Language > Languages Support > Install)
+3. Create a new language
+   (go to Setup > Languages > Add New > add name for your new language)
+4. Import the language pack in your ProcessWire installation
+   (go to your language > Content > Language Translation Files,
+   choose a zip package file)
+5. Set the new language as default to your profile
+   (go to Profile > Language > choose your new language)
+
+Check http://processwire.com/api/multi-language-support/ for more info.
+
 Recommended translations
 ------------------------
 
