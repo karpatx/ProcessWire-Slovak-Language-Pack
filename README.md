@@ -74,6 +74,7 @@ Recommended translations
 * field - pole
 * fieldset - zoskupenie polí
 * found - nájdený
+* guest - návštevník
 * handle - spracovať
 * hidden - skrytý
 * if you want to - ak si želáte, ak chcete
@@ -106,6 +107,7 @@ Recommended translations
 * query - dotaz
 * reference - referencia
 * remove - odstrániť
+* render - vykresliť
 * request - požiadavka
 * require - požadovať
 * resize - upraviť veľkosť
